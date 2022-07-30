@@ -1,0 +1,11 @@
+{
+  "editor.tabSize": 4,
+  "python.linting.pylintArgs": [
+    "--load-plugins",
+    "pylint-flask-sqlalchemy",
+    "pylint-flask"
+  ],
+  "pylint.args": ["--load-plugins", "pylint-flask-sqlalchemy"],
+  "python.linting.flake8Enabled": true,
+  "python.linting.enabled": true
+}
